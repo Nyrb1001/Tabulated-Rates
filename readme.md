@@ -1,7 +1,7 @@
 ## Rates
 The rates are sorted into folders by proton number, followed by files for each isotope. The folder structure is given by z{ZZZ}/z{ZZZ}n{NNN}.dat where Z and N are integers for the respective number of protons/neutrons. 
 
-Each file is a wide-format grid. Each column represents a different temperature, and each row is for a different chemical potnential.
+Each file is a wide-format grid. Each column represents a different temperature, and each row is for a different chemical potential.
 
 There are 29 temperature values (columns) in units of GK that are set as:  ``` T =      [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05, 0.1, 0.2, 0.25, 0.3, 0.4, &
     0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 5.0, 6.0, &
